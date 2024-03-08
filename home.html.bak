@@ -1,5 +1,10 @@
 <html>
 <body>
 <h1> Softronix IT Solution </h1>
+<<<<<<< HEAD
+<marquee><h1>Live Industrial Training only in softronix </h1><marquee>
+=======
+<h2> Tejaswi made a changes("Welcome")</h2>
+>>>>>>> 818a9fb71981b7985c16a25a6cc6a32cf390e596
 </body>
 </html>
